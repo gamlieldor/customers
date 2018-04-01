@@ -1,2 +1,2 @@
 # Customers
-POC of customers app with REST API and Python flask microservices
+POC of Python SAAS app with microservices in Flask and AWS as the server.
